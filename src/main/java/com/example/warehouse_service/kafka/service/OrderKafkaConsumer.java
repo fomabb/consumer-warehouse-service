@@ -1,4 +1,4 @@
-package com.example.warehouse_service.kafka;
+package com.example.warehouse_service.kafka.service;
 
 import com.example.warehouse_service.dto.Order;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
